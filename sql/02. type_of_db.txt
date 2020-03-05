@@ -1,0 +1,20 @@
+# Copyright 2020 PeTrA. All rights reserved.
+# Type of Database (DB)
+
+01. Database 
+ . Relational Database
+ . No SQL Database
+
+02. Relational Database
+ . Using Structured Query Language (SQL)
+ . Oracle, MS-SQL, MySQL, SQLite
+
+03. NoSQL Database
+ . Not using SQL
+ 1) Document type
+  . MongoDB, CouchDB
+ 2) Key/Value type
+  . Memchached, Redis
+ 3) Big Table DB
+  . HBase, Cassandra, Hypertable
+ 
