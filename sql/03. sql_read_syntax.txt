@@ -1,0 +1,10 @@
+# Copyright 2020 PeTrA. All rights reserved.
+# sql read syntax
+
+01. Read one table (column & attribute)
+ . Using DESC.
+ . DESC [table name]
+
+02. Read data of the table
+ . Using SELECT, FROM, WHERE etc.
+ 
