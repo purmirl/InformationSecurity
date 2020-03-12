@@ -7,4 +7,5 @@
 
 02. Read data of the table
  . Using SELECT, FROM, WHERE etc.
- 
+ . SELECT [column name] FROM [table name] WHERE [conditional expression];
+ .. ex : SELECT name FROM animals WHERE id = '0x1234';
