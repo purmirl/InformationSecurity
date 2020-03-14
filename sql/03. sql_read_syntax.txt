@@ -8,4 +8,14 @@
 02. Read data of the table
  . Using SELECT, FROM, WHERE etc.
  . SELECT [column name] FROM [table name] WHERE [conditional expression];
- .. ex : SELECT name FROM animals WHERE id = '0x1234';
+ .. ex : SELECT name FROM animals WHERE id='0x1234';
+ .. ex : SELECT * FROM people WHERE name='purmirl';
+ .. ex : SELECT * FROM people WHERE name IS NULL;
+ .. ex : SELECT * FROM people WHERE name='purmirl' OR name IS NULL;
+ .. ex : SELECT * FROM people WHERE name='purmirl' AND id='0x1234';
+ .. ex : SELECT * FROM people WHERE (name='purmirl OR name IS NULL) AND (id='0x1234' OR id='0x4321');
+ .. ex : SELECT * FROM people WHERE name LIKE '%urmirl'; // find last urmirl name
+ .. ex : SELECT * FROM people WHERE name LIKE '%\%%'; // find % 
+
+
+ 
