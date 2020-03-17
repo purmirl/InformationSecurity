@@ -1,2 +1,2 @@
-# data_science_lab
-This is the data science lab of Purmirl. 
+# Information Security
+This is the Information Security Study Repository of Purmirl. 
