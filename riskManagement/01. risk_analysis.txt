@@ -1,0 +1,19 @@
+/**
+ * Copyright 2020 Purmirl. All rights reserved.
+ * Information Security Study.
+ */
+ 
+/**
+ * RISK MANAGEMENT STUDY
+ * 01. Risk Analysis
+ */
+
+01. Basic Function
+ . SLE = ASSET_VALUE * EF
+ . ALE = SLE * ARO = ASSET_VALUE * EF * ARO
+
+02. Description
+ . EF : Exposure Factor
+ . SLE : Single Loss Expectancy
+ . ASSET_VALUE : value of things or asset
+ . ARO : Annualized Rate of Occurrence
