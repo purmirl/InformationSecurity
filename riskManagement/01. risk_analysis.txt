@@ -17,3 +17,4 @@
  . SLE : Single Loss Expectancy
  . ASSET_VALUE : value of things or asset
  . ARO : Annualized Rate of Occurrence
+ . ALE : Annualized Loss Expectancy
