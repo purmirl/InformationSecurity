@@ -8,13 +8,26 @@
  * 01. Risk Analysis
  */
 
-01. Basic Function
- . SLE = ASSET_VALUE * EF
- . ALE = SLE * ARO = ASSET_VALUE * EF * ARO
+01. Quantitative Risk Analysis
+ 01-1. Basic Function
+  . SLE = ASSET_VALUE * EF
+  . ALE = SLE * ARO = ASSET_VALUE * EF * ARO
 
-02. Description
- . EF : Exposure Factor
- . SLE : Single Loss Expectancy
- . ASSET_VALUE : value of things or asset
- . ARO : Annualized Rate of Occurrence
- . ALE : Annualized Loss Expectancy
+ 01-2. Description
+  . EF : Exposure Factor
+  . SLE : Single Loss Expectancy
+  . ASSET_VALUE : value of things or asset
+  . ARO : Annualized Rate of Occurrence
+  . ALE : Annualized Loss Expectancy
+ 
+ 02-3. Example
+  . 
+
+02. Qualitative Risk Analysis
+ 02-1. Intro
+  . Not match for the numerics.
+ 
+ 02-2. Example
+  . Delphi
+  . Brain Storming
+  . Story Board
