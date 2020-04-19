@@ -4,8 +4,8 @@
  */
 
 01. Access Control's Basic Principles
- 1) Sepration of Duty
- 2) Least Privilege Policy
+ . Sepration of Duty
+ . Least Privilege Policy
 
 02. Access Control's Process
  1) Identification
