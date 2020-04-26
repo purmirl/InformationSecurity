@@ -1,0 +1,11 @@
+/**
+ * Copyright 2020 Purmirl. All rights reserved.
+ * Information Security Study.
+ */
+
+01. Intro
+ . In Client PC;
+
+02. Structure
+ Set-Cookie: name=value; expires=[Date]l domain-[Domain]; path=[Path]; [secure]
+ 
