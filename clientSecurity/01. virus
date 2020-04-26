@@ -1,0 +1,21 @@
+/**
+ * Copyright 2020 Purmirl. All rights reserved.
+ * Information Security Study.
+ */
+
+01. Virus by Generation
+ 1) Primitive Virus
+  . Basic virus
+ 2) Encryption Virus
+  . Encrypt the virus program
+ 3) Stealth Virus
+ 4) Armour Virus
+  . Multi level encryption virus
+ 5) Macro Virus
+
+02. Antivirus Filtering Method
+ 02-1. Signature Scanning
+  . Trace the execuatable code
+ 02-2. Behavioral Virus Scanning
+  . Trace the behavior of virus
+  
