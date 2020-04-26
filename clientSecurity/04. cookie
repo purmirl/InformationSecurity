@@ -9,3 +9,9 @@
 02. Structure
  Set-Cookie: name=value; expires=[Date]l domain-[Domain]; path=[Path]; [secure]
  
+03. Naming
+ Cokkie:[username@sitename]
+
+04. Type
+ . Temporary Cookie
+ . Permanent Cookie
