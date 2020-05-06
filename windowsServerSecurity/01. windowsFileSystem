@@ -1,0 +1,14 @@
+/**
+ * Copyright 2020 Purmirl. All rights reserved.
+ * Information Security Study.
+ */
+
+01. FAT16
+. Basic
+
+02. FAT32
+ . No Access Control
+ 
+03. NTFS
+ . New Technology File System
+ . Access Control
